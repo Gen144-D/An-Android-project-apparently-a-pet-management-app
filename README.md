@@ -1,4 +1,4 @@
-# Gen144-D/ An-Android-project-apparently-a-pet-management-app
+# An-Android-project-apparently-a-pet-management-app
  — Repository Overview
 
 Repository: https://github.com/Gen144-D/g  
